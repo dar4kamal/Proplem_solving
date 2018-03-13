@@ -1,2 +1,2 @@
-# Proplem_solving
+# Problem_solving
 Previously solved problems
